@@ -1,3 +1,6 @@
 [submodule "pertemuan03_aplikasimessengers"]
 	path = pertemuan03_aplikasimessengers
 	url = https://github.com/MahesaAlghifari/PWL-TI-21-PA-212310006.git
+[submodule "pertemuan03_aplikasimessenger"]
+	path = pertemuan03_aplikasimessenger
+	url = https://github.com/MahesaAlghifari/PWL-TI-21-PA-212310006.git
